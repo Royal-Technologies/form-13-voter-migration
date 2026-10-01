@@ -8,7 +8,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[https://mehdiakram.github.io/form-13-voter-migration/](https://mehdiakram.github.io/form-13-voter-migration/)**
+🔗 **[https://royal-technologies.github.io/form-13-voter-migration/](https://royal-technologies.github.io/form-13-voter-migration/)**
 
 ---
 
@@ -81,7 +81,7 @@
 ### লোকালি চালান
 ```bash
 # রিপোজিটরি ক্লোন করুন
-git clone https://github.com/mehdiakram/form-13-voter-migration.git
+git clone https://github.com/royal-technologies/form-13-voter-migration.git
 
 # ফোল্ডারে যান
 cd form-13-voter-migration
@@ -111,7 +111,7 @@ form-13-voter-migration/
 
 ## 🤝 কন্ট্রিবিউট করুন
 
-Pull Request স্বাগত! যেকোনো বাগ বা উন্নতির সাজেশন [Issues](https://github.com/mehdiakram/form-13-voter-migration/issues) এ জানান।
+Pull Request স্বাগত! যেকোনো বাগ বা উন্নতির সাজেশন [Issues](https://github.com/royal-technologies/form-13-voter-migration/issues) এ জানান।
 
 ---
 
